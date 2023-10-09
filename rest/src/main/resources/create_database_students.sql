@@ -1,0 +1,6 @@
+
+
+CREATE TABLE ob_students(
+    id BIGINT NOT NULL PRIMARY KEY AUTOINCREMENT,
+
+)
